@@ -201,7 +201,7 @@ res.grid()
 window.mainloop()
 
 
-# Тио реклама - https://docs.google.com/spreadsheets/d/1_TeLiccac52qnzdkMT2WOG5ai4BxLRPP0u3ZNtjRVMc/edit
+# Типо реклама - https://docs.google.com/spreadsheets/d/1_TeLiccac52qnzdkMT2WOG5ai4BxLRPP0u3ZNtjRVMc/edit
 #print("Код был написан группой людей на бесплатной основе...")
 #print("Мы не будем против, если вы поддержите нас денюжкой.")
 #print(" ")
