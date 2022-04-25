@@ -1,5 +1,5 @@
 # DiscriminantCode
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub contributors](https://img.shields.io/github/contributors/fsystem88/spymer.svg)](https://GitHub.com/fsystem88/spymer/graphs/contributors/) [![MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen)](https://opensource.org/licenses/MPL-2.0) ![repo-size](https://img.shields.io/github/repo-size/fsystem88/spymer)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub contributors](https://img.shields.io/badge/contributors-1-red)](https://github.com/abova29/discriminant/graphs/contributors/) [![MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen)](https://opensource.org/licenses/MPL-2.0) ![repo-size](https://img.shields.io/github/repo-size/fsystem88/spymer)
 
 ## Содержание
 1. [Вступление](https://github.com/abova29/discriminant#Встуление)
