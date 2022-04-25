@@ -16,7 +16,7 @@
 Всего для вас есть 4 файла.
 Смотря для чего вам надо скачиваете для себя.
 
-1. [Discriminant](https://drive.google.com/file/d/1zVb7HPm68isor2z092kRd55SPwV7DGQ5/view?usp=sharing) 
+1. [Discriminant](https://github.com/abova29/discriminant/blob/main/Discriminant.exe) 
 
 EXE в консольной форме.
 Вводите a,b и c и прога сразу же выдает вам результат.
