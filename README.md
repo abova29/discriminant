@@ -23,8 +23,8 @@ EXE в консольной форме.
 Вводите a,b и c и прога сразу же выдает вам результат.
 
 
-2. [DiscriminantPro.exe]() 
-❌
+2. [DiscriminantPro.exe](https://github.com/abova29/discriminant/blob/main/DiscriminantPro.exe) 
+✔
 Тоже самое но с дополнениями.
 Есть поддержка a=0, b=0 и c=0. 
 
